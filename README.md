@@ -8,6 +8,10 @@ cryptographically secure random numbers.
 By seeding it with a Chainlink VRF result that is requested **only once for the project**,  
 it can be used to demonstrate that the random numbers are **not cherry-picked**.
 
+# Requirements
+
+- Python (2.1 to 3.x)
+
 # Installation
 
 **PIP:**
